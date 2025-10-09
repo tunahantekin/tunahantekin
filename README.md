@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba 👋
 
-<!--
-**tunahantekin/tunahantekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
+Akademik hayatımın yanında çeşitli projelerle uğraşıyorum. Yaptığım her şey benim için bir hobi gibi; istemiyorsam yapmam.  
 
-Here are some ideas to get you started:
+🎯 Alanım:
+- ABAP programlama
+- Gömülü sistem geliştirme
+- Nerede iş imkanı varsa, kendimi eğitmeye ve öğrenmeye açığım. En iyi yaptığım iş veya belirli bir uzmanlık alanım yok; bir konuda yol almak yeterli.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projelerim:
+- Bazı konularda uğraştığım projeler burada: *they are my randoms*
+
+📚 Benim yaklaşımım:
+- Spesifik bir alanın “uzmanı” olmak yerine, ilgilendiğim konuları öğrenmek ve geliştirmek
+- Eğlenerek ve hobi olarak yaptığım şeyleri paylaşmak
+
+🎓 Araştırmalar:
+- Deep fake voice recognition konusu üzerine makaleler ve çalışmaları inceliyor, kendi tezimi yazıyorum
