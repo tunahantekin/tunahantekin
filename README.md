@@ -6,7 +6,7 @@ Akademik hayatımın yanında çeşitli projelerle uğraşıyorum. Yaptığım h
 🎯 Alanım:
 - ABAP programlama
 - Gömülü sistem geliştirme
-- Nerede iş imkanı varsa, kendimi eğitmeye ve öğrenmeye açığım. En iyi yaptığım iş veya belirli bir uzmanlık alanım yok; bir konuda yol almak yeterli.
+- Nerede iş imkanı varsa, kendimi eğitmeye ve öğrenmeye açığım. En iyi yaptığım iş veya belirli bir uzmanlık alanım yok; bir konuda yol almak yeterli. Yaptığım en iyi iş bu
 
 💻 Projelerim:
 - Bazı konularda uğraştığım projeler burada: *they are my randoms*
