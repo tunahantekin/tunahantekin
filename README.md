@@ -1,4 +1,4 @@
-# Merhaba �
+# Merhaba 
 
 Ben Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.  
 Akademik hayatımın yanında çeşitli projelerle uğraşıyorum. Yaptığım her şey benim için bir hobi gibi; istemiyorsam yapmam.  
