@@ -1,19 +1,20 @@
-# Merhaba, ben Tunahan 👋
+# Merhaba
 
-Bilgisayar mühendisiyim, 2026'da Kütahya Dumlupınar Üniversitesi'nden mezun oldum. Yapay zekâ ve makine öğrenmesi alanında iş arıyorum.
+Ben Kütahya Dumlupınar Üniversitesi Bilgisayar Mühendisliği mezunuyum.
+Yapay zekâ ve makine öğrenmesi alanında çalışıyorum ve bu alanda iş arıyorum. Yaptığım her şey benim için hâlâ bir hobi gibi. Eğer istemiyorsam yapmam.
 
-### 🎙️ Türkçe ses deepfake tespiti · bitirme projesi
+🎯 Alanım:
+- Ses deepfake tespiti
+- RAG ve LLM sistemleri
+- Bir modelin gerçekte ne kadar iyi çalıştığını ölçmek
 
-612 bin seslik ilk büyük Türkçe deepfake korpusunu derledik ve üzerinde bir tespit modeli eğittik. İngilizce modellerin Türkçede yazı-tura seviyesine düştüğünü gösterdik. Makale yayına gönderilmek üzere.
+💻 Projelerim:
+- [Miyelom-RAG](https://github.com/tunahantekin/Miyelom-RAG): Kanser ilaçları hakkındaki Türkçe soruları kaynak göstererek cevaplayan RAG sistemi, staj projem
+- Eski projelerim de burada: *they are my randoms*
 
-### 🧠 [Miyelom-RAG](https://github.com/tunahantekin/Miyelom-RAG) · staj projesi
+📚 Benim yaklaşımım:
+- Her şeye biraz dokunmak yerine seçtiğim alanda derinleşmek
+- Eğlenerek ve hobi olarak yaptığım şeyleri paylaşmak
 
-Kanser ilaçları hakkındaki Türkçe soruları kaynak göstererek cevaplayan, yerel dil modeliyle çalışan bir RAG sistemi.
-
-### 🛠 Kullandıklarım
-
-`Python` `PyTorch` `Hugging Face` `Qdrant` `Ollama` `FastAPI` `React` `PostgreSQL`
-
-### 📫 İletişim
-
-[LinkedIn](https://linkedin.com/in/tunahan-tekin) · tunahantekin015@gmail.com
+🎓 Araştırmalar:
+- Bitirme projemde Türkçe ses deepfake tespiti üzerine çalıştım. 612 bin seslik bir veri seti derledik ve makalemiz yayına gönderilmek üzere.
